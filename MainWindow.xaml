@@ -1,0 +1,71 @@
+﻿<Window x:Class="WpfFourierPlotter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFourierPlotter"
+        mc:Ignorable="d"
+        Title="Fourier Plotter" Height="800" Width="900"
+        ResizeMode="NoResize"
+        WindowState="Maximized"
+        AllowsTransparency="True" WindowStyle="None">
+    <Grid>
+        <Menu Height="20" VerticalAlignment="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="New_Click"/>
+                <MenuItem Header="_Open" Click="Open_Click"/>
+                <MenuItem Header="_Save" Click="Save_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Exit" Click="Exit_Click"/>
+            <MenuItem Header="_Options">
+                <MenuItem  Header="_Draw circles" IsCheckable="True" IsChecked="True" Checked="Circles_Checked"
+                                                                Unchecked="Circles_Unchecked"/>
+                <MenuItem Header="_Draw lines" IsCheckable="True" IsChecked="True" Checked="Lines_Checked"
+                                                                Unchecked="Lines_Unchecked"/>
+            </MenuItem>
+        </Menu>
+
+        <Grid Margin="0,25,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="20*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="85*"/>
+                <RowDefinition Height="15*"/>
+            </Grid.RowDefinitions>
+
+            <GroupBox Header="Plotter"  Grid.Row="0" Grid.Column="0">
+                <Canvas Name="canvas">
+                    <Image x:Name="image" Height="{Binding ElementName=canvas, Path=ActualHeight}" 
+                                    Width="{Binding ElementName=canvas, Path=ActualWidth}">
+                    </Image>
+                </Canvas>
+            </GroupBox>
+            <GroupBox Header="Circles" Grid.Row="0" Grid.Column="1">
+                <DataGrid x:Name="circleGrid" AutoGenerateColumns="False" ItemsSource="{Binding}">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Radius" Binding="{Binding Path=Radius}" Width="80" />
+                        <DataGridTextColumn Header="Frequency" Binding="{Binding Path=Frequency}" Width="80" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </GroupBox>
+            <ProgressBar Name="progressBar" Grid.Row="1" Grid.Column="0" Minimum="0" Maximum="100" Value="0" Height="20"></ProgressBar>
+            <GroupBox Header="Actions" Grid.Row="1" Grid.Column="1">
+                <DockPanel>
+                    <Button DockPanel.Dock="Top" Height="30" Click="Start_Click">
+                        <Label Content="Start"/>
+                    </Button>
+                    <Button DockPanel.Dock="Top" Height="30" Click="Pause_Click">
+                        <Label Content="Pause"/>
+                    </Button>
+                    <Button DockPanel.Dock="Top" Height="30" Click="Reset_Click">
+                        <Label Content="Reset"/>
+                    </Button>
+                </DockPanel>
+            </GroupBox>
+
+
+        </Grid>
+    </Grid>
+</Window>

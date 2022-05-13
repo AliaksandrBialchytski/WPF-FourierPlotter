@@ -1,0 +1,52 @@
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.exe
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.deps.json
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.runtimeconfig.json
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.runtimeconfig.dev.json
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.dll
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\ref\WpfFourierPlotter.dll
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.pdb
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter_MarkupCompile.cache
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter_MarkupCompile.lref
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.g.resources
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.AssemblyInfo.cs
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.dll
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\ref\WpfFourierPlotter.dll
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.pdb
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.genruntimeconfig.cache
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\WpfFourierPlotter\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.CopyComplete
+C:\Users\User\source\repos\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.AssemblyReference.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.exe
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.deps.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.runtimeconfig.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.runtimeconfig.dev.json
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\ref\WpfFourierPlotter.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\WpfFourierPlotter.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.AssemblyReference.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\App.g.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter_MarkupCompile.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter_MarkupCompile.lref
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.g.resources
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.AssemblyInfoInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.AssemblyInfo.cs
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.CoreCompileInputs.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\ref\WpfFourierPlotter.dll
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.pdb
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.genruntimeconfig.cache
+D:\Санька\Semestr 4\Programowanie_Graficzne\Projects\WpfFourierPlotter\obj\Debug\net5.0-windows\WpfFourierPlotter.csproj.CopyComplete
